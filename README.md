@@ -1,15 +1,7 @@
-# Basic Sample Hardhat Project
+# Backend Smart Contract
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+This is the backend SmartContract for BuyMeCoffee Dapp(Decentralised App)
 
-Try running some of the following tasks:
+# For Frontend Check here 
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+https://github.com/SahilPanhotra/BuymeCoffeeDappFrontend 
